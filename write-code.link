@@ -1,0 +1,25 @@
+{
+    "_type": "Link",
+    "byproducts": {
+        "stderr": "",
+        "stdout": ""
+    },
+    "command": [
+        "./buildscript.sh"
+    ],
+    "materials": {},
+    "name": "write-code",
+    "products": {
+        "test/bob_project.py": {
+            "sha256": "fee7d9a033c189c00936628da00a4dcae7205d0886562bc946cd7cdc19ef931f"
+        }
+    },
+    "return_value": 0,
+    "signatures": [
+        {
+            "keyid": "e02e1d7f3b51bb52db91adeb307e39c94e321d1f993eff76ae07399bb837379d",
+            "method": "RSASSA-PSS",
+            "sig": "cfac349bad0fd4bf90858e622529966290db64482931751de5f3984ac3ca6260bc13baf17528fc6ca164c339704e547dc890eddce8c4e4dfc5c7c764cb3682bab6fded05a84c771252e230e7f59739df48b8ad68623e1a0e23b311eb9ee83f3c88951e858802cc93bca422ede05771708f86f9172a3f8f77661f44c09b32974f83fc063fcd8a3375880984b7b2a3775ba1162be3efac5dc29da3c2cba786b81bfed080cf77cb46a9971299daf90668e0253087b73023977a7a1168e4af9adcc8765526cd147508e4743bb5a3457be39420c4c80ccf9aaf7710c07528ebe5b8d2a89214755160106f64f7ad3857fc7ee4efb472d4f58e2fcf8db16690c8c5e1a8b1f406294a819cd9315308744055516de4bd800eacb98941700d6eab3bb65bde01f60dbf31769aadaff9827480f7e744cd6940f84706543c4820ac5ff1999822085df563d8ec3873de1542a5ee860b61c8c6e43d0e2ca22770b1ede41a5ededcd9c86000afbbc4dce6ca3c684d6f6c5430d41e4afaf62fe3ee72b049de6a0851"
+        }
+    ]
+}
