@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python test/bob_project.py
+python buildBotTest/test/bob_project.py
